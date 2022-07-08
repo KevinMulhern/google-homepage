@@ -185,4 +185,12 @@ footer li{
 	padding: 10px 10px 10px 0;
 	
 }
-
+.mic {
+	width: 24px;
+	height: 24px;
+	background-size: 24px;
+	vertical-align: middle;
+	padding: 0px 0px 5px 0px;
+	cursor: pointer;
+  }
+  
